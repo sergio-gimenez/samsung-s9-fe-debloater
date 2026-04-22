@@ -1,0 +1,16 @@
+# Syncthing folder plan
+
+# PC device ID
+E37KJL6-KXIEWK7-RDBP4MY-JSSQ7H7-F6QEDNU-2RAHYWB-F4O7OUR-JYMRAQK
+
+# Selected folders to sync from PC to tablet.
+# Avoid overlapping folders in Syncthing.
+
+mystuff | /home/sergio/mystuff | /storage/emulated/0/Sync/mystuff
+i2cat   | /home/sergio/i2cat   | /storage/emulated/0/Sync/i2cat
+phd     | /home/sergio/phd     | /storage/emulated/0/Sync/phd
+
+# Notes
+# - ~/eruse was skipped because the path does not exist.
+# - Do not also add nested folders under ~/mystuff as separate shares.
+# - Tablet path notation above matches Syncthing-Fork's Android storage view.
