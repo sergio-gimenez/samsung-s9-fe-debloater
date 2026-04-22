@@ -196,6 +196,7 @@ main() {
   fdroid_install "Nextcloud Notes" "it.niedermann.owncloud.notes"
   fdroid_install "Proton VPN" "ch.protonvpn.android"
   fdroid_install "Geo Share" "page.ooooo.geoshare"
+  fdroid_install "Termux" "com.termux"
   fdroid_install "Thunderbird" "net.thunderbird.android"
   fdroid_install "Wallabag" "fr.gaulupeau.apps.InThePoche"
   fdroid_install "Obtainium" "dev.imranr.obtainium.fdroid"
