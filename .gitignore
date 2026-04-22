@@ -1,0 +1,8 @@
+# Sensitive / private config that should never be in a public repo.
+# Device IDs, credentials, personal folder lists, etc.
+
+profiles/syncthing-folder-plan.txt
+scripts/syncthing-show-pc-info.sh
+
+# If you create local private variants, use a .private suffix.
+*.private
