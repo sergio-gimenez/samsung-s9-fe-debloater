@@ -1,0 +1,16 @@
+## Apps to track in Obtainium
+
+# Confirmed desired apps that are better handled via Obtainium.
+# These are source URLs / release pages to add inside Obtainium.
+
+WireGuard | https://github.com/WireGuard/wireguard-android/releases
+Signal | https://signal.org/android/apk/
+Telegram | https://github.com/Telegram-FOSS-Team/Telegram-FOSS/releases
+Bitwarden | https://github.com/bitwarden/android/releases
+Tor Browser | https://www.torproject.org/download/#android
+LibreSpeed | https://github.com/librespeed/speedtest-android/releases
+Sparky Fitness | https://github.com/CodeWithCJ/SparkyFitness
+
+# Deferred / unresolved
+Mapy | deferred by user
+ScreenZen | deferred by user
